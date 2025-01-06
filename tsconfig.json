@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "module": "Preserve",
+        "target": "ES6",
+        "moduleResolution": "bundler",
+        "baseUrl": ".",
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
+        "skipLibCheck": true,
+        "experimentalDecorators": true,
+        "noUnusedParameters": true,
+        "noUnusedLocals": true,
+        "paths": {
+        }
+    },
+    "include": ["src"]
+}
